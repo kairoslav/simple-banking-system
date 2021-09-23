@@ -19,6 +19,7 @@ Source code is available from https://github.com/kairoslav/simple-banking-system
 
   #### Running Simple Banking System
   To run application built from source, choose `./simple-banking-system/src/main/java/banking/Main.java`, right click on this file,     choose **Run \'Main.main()\'**. 
+  
   You must also specify 2 command line arguments `-fileName db.sqlite3`.
 
 
