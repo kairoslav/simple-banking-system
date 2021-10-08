@@ -38,7 +38,7 @@ Source code is available from https://github.com/kairoslav/simple-banking-system
 Everything goes digital these days, and so does money. Today, most people have credit cards, which save us time, energy and nerves. From not having to carry a wallet full of cash to consumer protection, cards make our lives easier in many ways. In this project, I developed a simple banking system with database.
 
 ### Learning outcomes
-In this project, I found out how the banking system works and learn about SQL. I also learnt how Luhn algorithm can help us avoid mistakes when entering the card number. As an overall result, I got new experience in Python.
+In this project, I found out how the banking system works and learn about SQL. I also learnt how Luhn algorithm can help us avoid mistakes when entering the card number. As an overall result, I got new experience in Java.
 
 ### Additional Description
 In our banking system, the IIN is 400000, the customer account number can be any number, but it should be unique and have a length of 16 digits. The very last digit of a credit card is the check digit or checksum. It is used to validate the credit card number using the Luhn algorithm.
